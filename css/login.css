@@ -1,0 +1,10 @@
+.login-container {
+    padding: 30px;
+    border-radius: 8px;
+    background-color: #ecf4ff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+body{
+    font-family: 'Acme';
+}
